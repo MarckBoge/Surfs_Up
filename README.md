@@ -25,3 +25,9 @@ This Project encompasses using a dataset containing weather conditions that have
       
  <img width="131" alt="Summary Statistic for December" src="https://user-images.githubusercontent.com/90155651/184991857-1a4cd9b8-6bf0-472b-a0da-6ea8f8c5768f.png">
 
+
+     Summary Statistic for June Vs December 
+     
+     
+<img width="220" alt="Summary Statistic for June Vs December" src="https://user-images.githubusercontent.com/90155651/184993148-8eb8071e-c38e-4592-90a5-3a43d1da0d7d.png">
+
