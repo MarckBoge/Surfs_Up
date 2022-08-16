@@ -14,20 +14,20 @@ This Project encompasses using a dataset containing weather conditions that have
 
       Summary Statistic for June
       
-    <img width="138" alt="Summary Statistic for June" src="https://user-images.githubusercontent.com/90155651/184993795-f8688031-50d8-47db-9a3a-0591c21bde56.png"> 
-  
+  <img width="138" alt="Summary Statistic for June" src="https://user-images.githubusercontent.com/90155651/184994022-97215bc5-4c82-47f8-87aa-0771a645ec04.png">
 
 
 
       Summary Statistic for December
       
-    <img width="130" alt="Summary Statistic for December" src="https://user-images.githubusercontent.com/90155651/184993768-6d8030d9-5416-4d4a-a3a4-7c69b12e18a3.png"> 
+   <img width="130" alt="Summary Statistic for December" src="https://user-images.githubusercontent.com/90155651/184994049-d75a792c-2f53-456a-b019-f0b4f331d931.png">
+
+   
  
 
      Summary Statistic for June Vs December 
      
-    <img width="222" alt="Summary Statistic for June Vs December" src="https://user-images.githubusercontent.com/90155651/184993837-1f9814aa-3d28-468f-b6ba-8602ec83c6cc.png">
-
+    <img width="222" alt="Summary Statistic for June Vs December" src="https://user-images.githubusercontent.com/90155651/184994097-942d9408-f3d6-4a16-b051-b5b5ff053338.png">
 
 
 
