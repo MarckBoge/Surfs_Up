@@ -30,5 +30,12 @@ This Project encompasses using a dataset containing weather conditions that have
    <img width="222" alt="Summary Statistic for June Vs December" src="https://user-images.githubusercontent.com/90155651/184994173-45985058-c17f-4803-a924-b5687cf86c22.png">
 
 
+## Key Differences in Weather: Oahu, Hawaii
+
+     * The average recorded temperature in June is about 74.9 degrees F, that is almost 4 degrees higher than the average temperature in December.
+     
+     * The Temperature in June and December have similar Max Temperatures with a difference of only 2 degrees, on the other hand it Min Temps have a    difference of 8 degrees dropping down to 56 degrees F.
+     
+     * From the results the Temperature does not have dramatic changes throughout the year.
 
 
