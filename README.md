@@ -27,7 +27,8 @@ This Project encompasses using a dataset containing weather conditions that have
 
      Summary Statistic for June Vs December 
      
-    <img width="222" alt="Summary Statistic for June Vs December" src="https://user-images.githubusercontent.com/90155651/184994097-942d9408-f3d6-4a16-b051-b5b5ff053338.png">
+   <img width="222" alt="Summary Statistic for June Vs December" src="https://user-images.githubusercontent.com/90155651/184994173-45985058-c17f-4803-a924-b5687cf86c22.png">
+
 
 
 
