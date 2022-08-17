@@ -72,6 +72,18 @@ In conculsion, I would summarizes my findings that even though the temperature r
    </p>
    
    
+   December Yearly Rain
+    <p align="center">
+   <img width="186" alt="December Yearly Rain" src="https://user-images.githubusercontent.com/90155651/185032347-8bc78a37-1fc6-4511-9e93-255aeebe3d90.png">
+   </p>
+   
+   
+   June Yearly Rain
+   <p align="center"> 
+   <img width="159" alt="June Yearly Rain" src="https://user-images.githubusercontent.com/90155651/185032469-2145ed2f-9dd3-404d-a267-d4dc83efca71.png">
+   </p>
+   
+   
    
    Average PRCP June Vs December
    
