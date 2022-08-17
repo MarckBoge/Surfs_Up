@@ -13,22 +13,22 @@ This Project encompasses using a dataset containing weather conditions that have
 ## Results
 
       Summary Statistic for June
-      
+   <p align="center">    
   <img width="138" alt="Summary Statistic for June" src="https://user-images.githubusercontent.com/90155651/184994022-97215bc5-4c82-47f8-87aa-0771a645ec04.png">
-
+</p>
 
 
       Summary Statistic for December
-      
+    <p align="center">   
    <img width="130" alt="Summary Statistic for December" src="https://user-images.githubusercontent.com/90155651/184994049-d75a792c-2f53-456a-b019-f0b4f331d931.png">
-
+</p>
    
  
 
      Summary Statistic for June Vs December 
-     
+   <p align="center">   
    <img width="222" alt="Summary Statistic for June Vs December" src="https://user-images.githubusercontent.com/90155651/184994173-45985058-c17f-4803-a924-b5687cf86c22.png">
-
+</p>
 
 ## Key Differences in Weather: Oahu, Hawaii
 
@@ -44,8 +44,8 @@ In conculsion, I would summarizes my findings that even though the temperature r
 
      Box and Whisker plot showing June and December Temperature Statistics
      
-     
+   <p align="center">   
    <img width="632" alt="Box and Whisker plot showing June and December Temperature Statistics" src="https://user-images.githubusercontent.com/90155651/185031014-c8e3439f-fb98-4b5b-b114-bd50d4d437f4.png">
-   
+   </p>
    
    
