@@ -19,9 +19,10 @@ This Project encompasses using a dataset containing weather conditions that have
 
 
       Summary Statistic for December
-    <p align="center">   
+    
+   <p align="center">    
    <img width="130" alt="Summary Statistic for December" src="https://user-images.githubusercontent.com/90155651/184994049-d75a792c-2f53-456a-b019-f0b4f331d931.png">
-</p>
+   </p>
    
  
 
