@@ -38,4 +38,14 @@ This Project encompasses using a dataset containing weather conditions that have
      
      * From the results the Temperature does not have dramatic changes throughout the year.
 
+## Summary
 
+In conculsion, I would summarizes my findings that even though the temperature recorded in December fluctuations throughout the month, December still provides optimal weather conditions for both surfing and a demand for ice cream. The average temperature in June and December only varies by only 4 degrees. Also the yearly average is 74 degrees F with a max of 87 degrees F perfect weather for surfing and ice cream. But to get the best idea and understanding visual component is needed.
+
+     Box and Whisker plot showing June and December Temperature Statistics
+     
+     
+   <img width="632" alt="Box and Whisker plot showing June and December Temperature Statistics" src="https://user-images.githubusercontent.com/90155651/185031014-c8e3439f-fb98-4b5b-b114-bd50d4d437f4.png">
+   
+   
+   
